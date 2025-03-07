@@ -1,0 +1,5 @@
+CityA CityB 100 2.5
+CityB CityC 150 3.0
+CityA CityC 200 4.0
+CityC CityD 50 1.5
+CityB CityD 120 2.0
